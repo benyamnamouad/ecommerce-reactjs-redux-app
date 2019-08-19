@@ -1,4 +1,4 @@
-#Qomondi ReacJs porjct
+#E-commerce ReacJs porjct
 ```
 > npm install
 > npm start
