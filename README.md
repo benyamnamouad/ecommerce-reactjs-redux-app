@@ -5,7 +5,7 @@
 ```
 
 ## Here are some screenshots of the app
-##### 1- First page
+##### 1- Card Page
 ![screen_shot1](https://i.ibb.co/SfKm6Y2/Screenshot-from-2018-10-27-18-47-47.png)
 
 ##### 2- Product Details 
